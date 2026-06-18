@@ -39,3 +39,4 @@ app.listen(PORT, () => {
 });
 
 module.exports = app;
+//Step 4: API ready on port 8000
